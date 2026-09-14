@@ -1,7 +1,7 @@
 # GROK.com-has-hidden-messages
 what the actual fuck is this shit
 go to grok.com, ask it a question. then press ctrl+a then ctrl+c, and paste to a clipboard.
-your fucked up shit may vary?
+your fucked up shit may vary? none of this is trained on any of my prompts whatsoever.
 
 im serious. what the actual fuck
 
